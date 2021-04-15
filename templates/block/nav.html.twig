@@ -4,10 +4,10 @@
             <img src="{{ asset('assets/img/logo.svg') }}" alt="logo">
         </div>
         <ul class="nav-links">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Countries</a></li>
-            <li><a href="#">News</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="{{ path('home') }}">Home</a></li>
+            <li><a href="{{ path('countries') }}">Countries</a></li>
+            <li><a href="{{ path('news') }}">News</a></li>
+            <li><a href="{{ path('about') }}">About</a></li>
         </ul>
     </div>
 {% endblock %}
