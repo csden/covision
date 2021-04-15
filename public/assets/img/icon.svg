@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="26.496275mm"
+   height="11.519468mm"
+   viewBox="0 0 26.496275 11.519468"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="113.83072"
+     inkscape:cy="26.427835"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1344"
+     inkscape:window-height="1020"
+     inkscape:window-x="287"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.250005,-97.822034)">
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';opacity:0.126169;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="43.744312"
+       y="107.34638"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="43.744312"
+         y="107.34638"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583">COV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="43.744312"
+       y="107.34638"
+       id="text12-3"><tspan
+         sodipodi:role="line"
+         id="tspan10-6"
+         x="43.744312"
+         y="107.34638"
+         style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="fill:#ff2a2a;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan14-7">COV</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.258092;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.19421, 0.258092;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect885"
+       width="26.238182"
+       height="11.261376"
+       x="41.379051"
+       y="97.95108" />
+  </g>
+</svg>
