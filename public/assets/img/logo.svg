@@ -5,40 +5,33 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="53.34507mm"
-   height="11.519468mm"
-   viewBox="0 0 53.34507 11.519468"
+   width="56.717064mm"
+   height="16.889305mm"
+   viewBox="0 0 56.717064 16.889305"
    version="1.1"
-   id="svg8"
+   id="svg24"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="logo.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient881">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop877" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop879" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient881"
-       id="linearGradient883"
-       x1="43.435566"
-       y1="103.98542"
-       x2="91.380806"
-       y2="103.98542"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.51435474,-0.40365591)" />
+     id="defs18">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1111"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1069"
+       is_visible="true"
+       lpeversion="1" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -48,19 +41,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="113.83071"
-     inkscape:cy="26.427843"
+     inkscape:cx="101.21208"
+     inkscape:cy="40.204092"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1344"
-     inkscape:window-height="1020"
-     inkscape:window-x="287"
-     inkscape:window-y="27"
+     inkscape:window-height="907"
+     inkscape:window-x="330"
+     inkscape:window-y="38"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata5">
+     id="metadata21">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -75,39 +68,39 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-41.250007,-97.822032)">
-    <text
-       xml:space="preserve"
-       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';opacity:0.126169;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-       x="43.593353"
-       y="107.34638"
-       id="text12"><tspan
-         sodipodi:role="line"
-         id="tspan10"
-         x="43.593353"
-         y="107.34638"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="fill:#000000;fill-opacity:1"
-   id="tspan14">COV</tspan>ISION</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="43.410267"
-       y="107.17932"
-       id="text12-3"><tspan
-         sodipodi:role="line"
-         id="tspan10-6"
-         x="43.410267"
-         y="107.17932"
-         style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"><tspan
-   style="fill:#ff2a2a;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-   id="tspan14-7">COV</tspan>ISION</tspan></text>
+     transform="translate(-42.090472,-89.070158)">
     <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.76, 0.365;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect885"
-       width="52.980068"
-       height="11.154469"
-       x="41.432507"
-       y="98.004532" />
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1318"
+       width="56.017063"
+       height="16.189304"
+       x="42.440472"
+       y="89.420158" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';opacity:0.138608;stroke-width:0.264583"
+       x="47.055923"
+       y="101.54107"
+       id="text1208-5"><tspan
+         sodipodi:role="line"
+         id="tspan1206-6"
+         x="47.055923"
+         y="101.54107"
+         style="stroke-width:0.264583"><tspan
+   style="fill:#ff0000"
+   id="tspan1210-2">COV</tspan>ISION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';stroke-width:0.264583"
+       x="46.119816"
+       y="101.27943"
+       id="text1208"><tspan
+         sodipodi:role="line"
+         id="tspan1206"
+         x="46.119816"
+         y="101.27943"
+         style="stroke-width:0.264583"><tspan
+   style="fill:#ff0000"
+   id="tspan1210">COV</tspan>ISION</tspan></text>
   </g>
 </svg>

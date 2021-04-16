@@ -7,15 +7,32 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="26.496275mm"
-   height="11.519468mm"
-   viewBox="0 0 26.496275 11.519468"
+   width="30.37347mm"
+   height="17.38953mm"
+   viewBox="0 0 30.37347 17.38953"
    version="1.1"
-   id="svg8"
+   id="svg24"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="icon.svg">
   <defs
-     id="defs2" />
+     id="defs18">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1111"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1069"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,19 +41,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="113.83072"
-     inkscape:cy="26.427835"
+     inkscape:cx="102.15738"
+     inkscape:cy="41.149409"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1344"
-     inkscape:window-height="1020"
-     inkscape:window-x="287"
-     inkscape:window-y="27"
+     inkscape:window-height="907"
+     inkscape:window-x="330"
+     inkscape:window-y="38"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata5">
+     id="metadata21">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -51,37 +68,39 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-41.250005,-97.822034)">
+     transform="translate(-41.84036,-88.820043)">
     <text
        xml:space="preserve"
-       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';opacity:0.126169;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-       x="43.744312"
-       y="107.34638"
-       id="text12"><tspan
+       style="font-weight:900;font-size:12.6805px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';opacity:0.138608;stroke-width:0.317014"
+       x="44.866741"
+       y="102.41148"
+       id="text1208-5"><tspan
          sodipodi:role="line"
-         id="tspan10"
-         x="43.744312"
-         y="107.34638"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.264583">COV</tspan></text>
+         id="tspan1206-6"
+         x="44.866741"
+         y="102.41148"
+         style="stroke-width:0.317014"><tspan
+           style="fill:#ff0000;stroke-width:0.317014"
+           id="tspan1210-2">COV</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:900;font-size:10.5833px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="43.744312"
-       y="107.34638"
-       id="text12-3"><tspan
+       style="font-weight:900;font-size:12.6805px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';stroke-width:0.317014"
+       x="44.142269"
+       y="102.02543"
+       id="text1208"><tspan
          sodipodi:role="line"
-         id="tspan10-6"
-         x="43.744312"
-         y="107.34638"
-         style="stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"><tspan
-           style="fill:#ff2a2a;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           id="tspan14-7">COV</tspan></tspan></text>
+         id="tspan1206"
+         x="44.142269"
+         y="102.02543"
+         style="stroke-width:0.317014"><tspan
+           style="fill:#ff0000;stroke-width:0.317014"
+           id="tspan1210">COV</tspan></tspan></text>
     <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.258092;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.19421, 0.258092;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect885"
-       width="26.238182"
-       height="11.261376"
-       x="41.379051"
-       y="97.95108" />
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1.01;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1318"
+       width="29.36347"
+       height="16.37953"
+       x="42.34536"
+       y="89.325043" />
   </g>
 </svg>
