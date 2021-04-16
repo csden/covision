@@ -2,7 +2,7 @@
 
 {% block title %}Home{% endblock %}
 {% block styles %}
-
+    <link rel="stylesheet" href="{{ asset('assets/css/home/styles.css') }}">
 {% endblock %}
 
 {% block navigation %}
@@ -10,7 +10,9 @@
 {% endblock %}
 
 {% block content %}
-
+    <section style="background-image: url({{ homeRandomImage }})" class="home-search-section">
+        <div class="opaque-overlay"></div>
+    </section>
 {% endblock %}
 
 {% block footer %}

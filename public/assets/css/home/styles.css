@@ -1,0 +1,32 @@
+
+.home-search-section {
+    display: flex;
+    position: relative;
+    height: 85vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: 98;
+}
+
+.home-search-section .opaque-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.6);
+    z-index: 99;
+}
+
+.home-search-section::before {
+    background-image: url("/assets/img/p-view-section.svg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    content: '';
+    position: absolute;
+    background-repeat: no-repeat;
+    display: block;
+    z-index: 100;
+}

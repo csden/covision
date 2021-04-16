@@ -5,13 +5,19 @@
         <title>covision - {% block title %}{% endblock %}</title>
         <link rel="icon" href="{{ asset('assets/img/icon.svg') }}" sizes="any" type="image/svg+xml">
         <link rel="stylesheet" href="{{ asset('assets/css/global.css') }}">
+        <link rel="stylesheet" href="{{ asset('assets/css/spinner.css') }}">
         {% block styles %}{% endblock %}
     </head>
     <body>
+        <div class="spinner-container">
+            <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+        </div>
         {% block navigation %}{% endblock %}
         {% block content %}{% endblock %}
         {% block footer %}{% endblock %}
 
+        <script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}"></script>
+        <script src="{{ asset('assets/js/spinner.js') }}"></script>
         {% block scripts %}{% endblock %}
     </body>
 </html>
